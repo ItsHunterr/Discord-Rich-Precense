@@ -9,3 +9,11 @@ With this application you can create a custom rich presence for discord.
 
 
 # How to use it?
+
+_Note: This only works in discord pc_
+
+1.- Go to the [discord developer portal](https://discord.com/developers/applications) and make an app.
+2.- Take the id of the application. 
+![image2](https://i.imgur.com/SmC6xlU.png)
+3.- Put the id in the program 
+4.- Done! Configure the application as you want.
