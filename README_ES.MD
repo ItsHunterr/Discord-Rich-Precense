@@ -10,7 +10,7 @@ Con esta aplicación puedes crear una rica presencia personalizada para discord.
 
 # Como usar la applicacion?
 
-_Nota: Esto solo funciona con el discord de la pc_
+_Nota: Esto solo funciona con el discord de la pc, no con discord en el buscador_
 
 **1.-** Ve al [discord developer portal](https://discord.com/developers/applications) y crea una aplicacion. <br><br>
 **2.-** Toma la ID de la aplicacion.  <br><br>
