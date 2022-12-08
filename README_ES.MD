@@ -3,7 +3,7 @@
 
 ¿Qué es esto?
 
-Con esta aplicación puedes crear una rica presencia personalizada para discord.
+Con esta aplicación puedes crear una presencia personalizada para discord.
 
 ![image1](https://i.imgur.com/xvHmQla.png)
 
